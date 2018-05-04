@@ -1,4 +1,4 @@
-##OpenCV_Spatez
+## OpenCV_Spatez
 
 This program uses the OpenCV library to detect a marker when placed on the Field of View of the camera. Also, the program prints the relative distance of the marker from the camera.
 
